@@ -1,2 +1,2 @@
-# conversor-de-imagens-para-webp
-Função que converter imagens de JPG para WEBP
+# Conversor de imagens
+Função básica que converte arquivos de imagens de JPG para WEBP.
